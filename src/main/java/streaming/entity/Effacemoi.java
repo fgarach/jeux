@@ -51,7 +51,7 @@ public class Effacemoi implements Serializable {
         this.nom = nom;
     }
     
-    
+
 
     @Override
     public int hashCode() {
